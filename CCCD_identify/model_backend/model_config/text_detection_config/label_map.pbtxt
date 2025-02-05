@@ -1,0 +1,40 @@
+item {
+    name: "current_place",
+    id: 1,
+    display_name: "current_place"
+}
+item {
+    name: "dob",
+    id: 2,
+    display_name: "date_of_birth"
+}
+item {
+    name: "expire_date",
+    id: 3,
+    display_name: "expire_date"
+}
+item {
+    name: "gender",
+    id: 4,
+    display_name: "gender"
+}
+item {
+    name: "id",
+    id: 5,
+    display_name: "id"
+}
+item {
+    name: "name",
+    id: 6,
+    display_name: "name"
+}
+item {
+    name: "nationality",
+    id: 7,
+    display_name: "nationality"
+}
+item {
+    name: "origin_place",
+    id: 8,
+    display_name: "origin_place"
+}

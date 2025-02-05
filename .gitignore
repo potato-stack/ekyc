@@ -1,0 +1,59 @@
+# Ignore generated file and local file
+DB
+Face_db
+test.py
+
+# Ignore Python cache and compiled files
+__pycache__/
+**/*.py[cod]
+**/__pycache__
+**/*.pyo
+**/*.pyd
+**/*.pkl
+
+# Ignore Cython generated files
+**/*.c
+**/*.cpp
+**/*.so
+**/*.pyd
+**/*.pyc
+**/*.pyo
+**/*.o
+**/*.a
+**/*.obj
+
+# Ignore Cython build directories
+**/build/
+**/dist/
+
+# Ignore temporary files
+**/*.log
+**/*.tmp
+**/*.bak
+**/*.swp
+
+# Ignore system-specific files
+.DS_Store
+**/*.egg-info/
+**/*.egg
+**/*.manifest
+**/*.spec
+
+# Ignore virtual environments
+run
+test
+env/
+venv/
+.venv/
+env.bak/
+venv.bak/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore cache
+**/temp
+*.png
+*.jpg
+*.jpeg
+*.jfif

@@ -1,0 +1,60 @@
+item {
+    name: "current_place",
+    id: 1,
+    display_name: "current_place"
+}
+item {
+    name: "date_of_birth",
+    id: 2,
+    display_name: "date_of_birth"
+}
+item {
+    name: "expire_date",
+    id: 3,
+    display_name: "expire_date"
+}
+item {
+    name: "features",
+    id: 4,
+    display_name: "features"
+}
+item {
+    name: "finger_print",
+    id: 5,
+    display_name: "finger_print"
+}
+item {
+    name: "gender",
+    id: 6,
+    display_name: "gender"
+}
+item {
+    name: "id",
+    id: 7,
+    display_name: "id"
+}
+item {
+    name: "issue_date",
+    id: 8,
+    display_name: "issue_date"
+}
+item {
+    name: "name",
+    id: 9,
+    display_name: "name"
+}
+item {
+    name: "nationality",
+    id: 10,
+    display_name: "nationality"
+}
+item {
+    name: "origin_place",
+    id: 11,
+    display_name: "origin_place"
+}
+item {
+    name: "qr",
+    id: 12,
+    display_name: "qr"
+}

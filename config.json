@@ -1,0 +1,13 @@
+{
+    "server": {
+        "host": "0.0.0.0",
+        "port": 8000
+    },
+    "database": {
+        "db_url": "place_holder",
+        "db_name": "place_holder"
+    },
+    "external_service": {
+        "api_url": "https://external-service.com/api"
+    }
+}
